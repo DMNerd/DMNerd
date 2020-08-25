@@ -15,7 +15,7 @@ I also love linguistics and learning laguages. I speak:
 
 *Personal Art by [AiKuroyake](https://github.com/AiKuroyake) ©
 
-![THMBadge](https://tryhackme-badges.s3.amazonaws.com/TNerd.png)
+<script src="https://tryhackme.com/badge/64093"></script>
 
 <!--
 **DMNerd/DMNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
