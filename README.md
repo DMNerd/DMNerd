@@ -6,6 +6,9 @@ I am Hackintosher 🍏 and Linux 🐧 user.
 
 I learn [IT security](https://tryhackme.com/p/TNerd) 
 
+
+![THM](https://tryhackme.com/badge/64093)
+
 I also love linguistics and learning laguages. I speak:
 
 * Czech
