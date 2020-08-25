@@ -14,8 +14,8 @@ I also love linguistics and learning laguages. I speak:
 ![ILoveTux](https://raw.githubusercontent.com/DMNerd/DMNerd/master/lovetux.png)
 
 *Personal Art by [AiKuroyake](https://github.com/AiKuroyake) ©
- 
-<img src="https://tryhackme-badges.s3.amazonaws.com/TNerd.png" alt="TryHackMe">
+
+![THMBadge](https://tryhackme-badges.s3.amazonaws.com/TNerd.png)
 
 <!--
 **DMNerd/DMNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
