@@ -7,7 +7,7 @@ Ich bin Hackintosher 🍏 und Linux 🐧 Benutzer.
 Ich liebe Lingustik un neue sprache lernen auch. Ich spreche:
 
 * Tschechis
-* Englisch
+* [Englisch](GERMAN.md)
 * Deutsch
 * Esperanto (jetzt lernen)
 
