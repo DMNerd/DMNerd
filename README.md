@@ -6,10 +6,10 @@ I am Hackintosher 🍏 and Linux 🐧 user.
 
 I also love linguistics and learning laguages. I speak:
 
-*Czech
-*English
-*German
-*Esperanto (still learining)
+* Czech
+* English
+* German
+* Esperanto (still learining)
 
 
 ![ILoveTux](https://raw.githubusercontent.com/DMNerd/DMNerd/master/lovetux.png)
