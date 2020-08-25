@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My name is Adam and I am a PC enthusiast from Czech republic 🇨🇿.
+My name is Adam and I am a IT enthusiast from Czech republic 🇨🇿.
 
 I am Hackintosher 🍏 and Linux 🐧 user.
+
+I learn [IT security](https://tryhackme.com/p/TNerd) 
 
 I also love linguistics and learning laguages. I speak:
 
@@ -11,8 +13,8 @@ I also love linguistics and learning laguages. I speak:
 * German
 * Esperanto (still learining)
 
-
 ![ILoveTux](https://raw.githubusercontent.com/DMNerd/DMNerd/master/lovetux.png)
+
 *Personal Art by [AiKuroyake](https://github.com/AiKuroyake) ©
  
 
