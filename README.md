@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 My name is Adam and I am a IT enthusiast and Translator from Czech republic 🇨🇿.
 
