@@ -1,19 +1,19 @@
-### Hi there 👋
+### Saluton 👋
 
-My name is Adam and I am a IT enthusiast and Translator from Czech republic 🇨🇿.
+Mi nomiĝas Adam kaj mi estas IT-entuziasmulo kaj tradukisto el Ĉe Czecha Respubliko 🇨🇿.
 
-I am Hackintosher 🍏 and Linux 🐧 user.
+Mi estas Hackintosher 🍏 kaj Linux 🐧 uzanto.
 
-I also love linguistics and learning laguages. I speak:
+Mi ankaŭ amas lingvistiko kaj lingvoj lernado. Mi parolas:
 
 * Czech
-* English
+* [Englisch](https://github.com/DMNerd/DMNerd/blob/master/README.md)
 * [German](https://github.com/DMNerd/DMNerd/blob/master/GERMAN.md)
-* [Esperanto](https://github.com/DMNerd/DMNerd/blob/master/ESPERANT.md) (still learining)
+* Esperanto (ankoraŭ lernado)
 
 ![ILoveTux](https://raw.githubusercontent.com/DMNerd/DMNerd/master/lovetux.png)
 
-*Personal Art by [AiKuroyake](https://github.com/AiKuroyake) ©
+*Persona Arto de [AiKuroyake](https://github.com/AiKuroyake) ©
 
 <!--
 **DMNerd/DMNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
