@@ -8,7 +8,7 @@ I also love linguistics and learning laguages. I speak:
 
 * Czech
 * English
-* [German](GERMAN.md)
+* [German](https://github.com/DMNerd/DMNerd/blob/master/GERMAN.md)
 * Esperanto (still learining)
 
 ![ILoveTux](https://raw.githubusercontent.com/DMNerd/DMNerd/master/lovetux.png)

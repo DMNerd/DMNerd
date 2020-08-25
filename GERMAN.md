@@ -7,7 +7,7 @@ Ich bin Hackintosher 🍏 und Linux 🐧 Benutzer.
 Ich liebe Lingustik un neue sprache lernen auch. Ich spreche:
 
 * Tschechis
-* [Englisch](GERMAN.md)
+* [Englisch](https://github.com/DMNerd/DMNerd/blob/master/README.md)
 * Deutsch
 * Esperanto (jetzt lernen)
 
