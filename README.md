@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Adam and I am a PC enthusiast from Czech republic 🇨🇿.
+
+I am Hackintosher 🍏 and Linux 🐧 user.
+
+
+
 <!--
 **DMNerd/DMNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
