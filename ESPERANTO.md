@@ -6,9 +6,9 @@ Mi estas Hackintosher 🍏 kaj Linux 🐧 uzanto.
 
 Mi ankaŭ amas lingvistiko kaj lingvoj lernado. Mi parolas:
 
-* Czech
-* [Englisch](https://github.com/DMNerd/DMNerd/blob/master/README.md)
-* [German](https://github.com/DMNerd/DMNerd/blob/master/GERMAN.md)
+* Ĉea
+* [Angla](https://github.com/DMNerd/DMNerd/blob/master/README.md)
+* [Germane](https://github.com/DMNerd/DMNerd/blob/master/GERMAN.md)
 * Esperanto (ankoraŭ lernado)
 
 ![ILoveTux](https://raw.githubusercontent.com/DMNerd/DMNerd/master/lovetux.png)
