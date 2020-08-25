@@ -4,8 +4,6 @@ My name is Adam and I am a IT enthusiast from Czech republic 🇨🇿.
 
 I am Hackintosher 🍏 and Linux 🐧 user.
 
-I learn [IT security](https://tryhackme.com/p/TNerd) 
-
 I also love linguistics and learning laguages. I speak:
 
 * Czech
@@ -17,6 +15,7 @@ I also love linguistics and learning laguages. I speak:
 
 *Personal Art by [AiKuroyake](https://github.com/AiKuroyake) ©
  
+<img src="https://tryhackme-badges.s3.amazonaws.com/TNerd.png" alt="TryHackMe">
 
 <!--
 **DMNerd/DMNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
