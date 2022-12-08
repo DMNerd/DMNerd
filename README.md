@@ -10,7 +10,3 @@ I also love linguistics and learning laguages. I speak:
 * English
 * [German](https://github.com/DMNerd/DMNerd/blob/master/GERMAN.md)
 * [Esperanto](https://github.com/DMNerd/DMNerd/blob/master/ESPERANTO.md) (still learining)
-
-![ILoveTux](https://raw.githubusercontent.com/DMNerd/DMNerd/master/lovetux.png)
-
-*Personal Art by [AiKuroyake](https://github.com/AiKuroyake) ©
