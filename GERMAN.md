@@ -10,7 +10,3 @@ Ich liebe Lingustik un neue sprache lernen auch. Ich spreche:
 * [Englisch](https://github.com/DMNerd/DMNerd/blob/master/README.md)
 * Deutsch
 * [Esperanto](https://github.com/DMNerd/DMNerd/blob/master/ESPERANTO.md) (jetzt lernen)
-
-![ILoveTux](https://raw.githubusercontent.com/DMNerd/DMNerd/master/lovetux.png)
-
-*Persönliche Kunst von [AiKuroyake](https://github.com/AiKuroyake) ©
