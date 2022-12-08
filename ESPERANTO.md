@@ -10,7 +10,3 @@ Mi ankaŭ amas lingvistiko kaj lingvoj lernado. Mi parolas:
 * [Angla](https://github.com/DMNerd/DMNerd/blob/master/README.md)
 * [Germane](https://github.com/DMNerd/DMNerd/blob/master/GERMAN.md)
 * Esperanto (ankoraŭ lernado)
-
-![ILoveTux](https://raw.githubusercontent.com/DMNerd/DMNerd/master/lovetux.png)
-
-*Persona Arto de [AiKuroyake](https://github.com/AiKuroyake) ©
